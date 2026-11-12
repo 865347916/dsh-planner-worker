@@ -1,0 +1,12 @@
+{
+  "name": "dsh-planner-worker",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "license": "MIT"
+}
